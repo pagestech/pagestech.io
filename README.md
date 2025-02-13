@@ -43,7 +43,7 @@
 <div align="center">
 ✈️ **免费节点获取** 🛩️
   
-[*进入群发送关键字 订阅 获取*](https://t.me/AM_CLUBS)
+[*进入群发送关键字 订阅 获取*](https://t.me/cfworker)
  </div> 
  
 ✈️ **机场推荐** 🛩️
@@ -57,6 +57,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ansoncloud8&show_icons=false&theme=Default" alt="logo" align="right" width="100%" />
 
 <!---
-ansoncloud8/ansoncloud8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+pagestech/pagestech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
