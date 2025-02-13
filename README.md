@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://am.809098.xyz">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AM科技-技术分享满满干货;console.log(%22AM科技%EF%BC%8C技术分享满满干货%22)">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=pagestech-技术分享满满干货;console.log(%22pagestechEF%BC%8C技术分享满满干货%22)">
   </a>
 </h1>
 
